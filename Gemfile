@@ -29,7 +29,7 @@ gem 'faker'
 # gem 'rack-cors'
 
 group :development, :test do
-  gem 'rspec-rails', '~> 3.5'
+  gem 'rspec-rails', '~> 3.8'
   gem 'pry-rails'
 end
 
