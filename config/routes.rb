@@ -1,4 +1,6 @@
-Rails.application.routes.draw do
+Rails.application.routes.draw do  
+
+  resources :mobile_oparators
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
   # module the controllers without affecting the URI
